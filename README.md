@@ -1,5 +1,5 @@
 # zuramai-inventaris
-tugas sekolah jurusan rpl pada kelas 12
+Kumpulan aplikasi aplikasi php yang saya buat dan berupa tugas sekolah jurusan rpl pada kelas 12 ku
 
 <b>fitur di dalamnya</b>
 <b><i>user</i></b>
