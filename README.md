@@ -7,7 +7,7 @@ tugas sekolah jurusan rpl pada kelas 12
 2. operator
 3. anggota
 
-<b><i>database<i><b>
+<b><i>database</i></b>
 1. tbl_admin
 2. tbl_anggota
 3. tgl_barang
