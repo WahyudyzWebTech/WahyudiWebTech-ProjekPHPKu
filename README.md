@@ -16,7 +16,7 @@ database
 6. tbl_pinjam
 7. tbl_pinjam_barang
 
-by muhammad wahyudi 2020
+by muhammad wahyudi 2020 <br>
 tgl post, 20 agustus 2020
 
 
