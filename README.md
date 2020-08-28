@@ -1,13 +1,13 @@
 # zuramai-inventaris
 tugas sekolah jurusan rpl pada kelas 12
 
-# fitur di dalamnya
-user
+<b>fitur di dalamnya</b>
+<b><i>user</i></b>
 1. admin
 2. operator
 3. anggota
 
-database
+<b><i>database<i><b>
 1. tbl_admin
 2. tbl_anggota
 3. tgl_barang
@@ -16,7 +16,7 @@ database
 6. tbl_pinjam
 7. tbl_pinjam_barang
 
-by muhammad wahyudi 2020 <br>
-tgl post, 20 agustus 2020
+<b>by muhammad wahyudi 2020</b> <br>
+<b>tgl post, 20 agustus 2020</b>
 
 
